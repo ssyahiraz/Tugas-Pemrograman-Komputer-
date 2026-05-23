@@ -17,7 +17,7 @@ Pemrograman Komputer
 1. Amanda Sekar Motinda
 (27250056)
 3. (Gita Anjani) - (27250084)
-4. (Putri Hisanaah Nabilah) -
+4. (Putri Hisaanah Nabilah) -
 (27250085)
 5. Syahira Alya Putri - (27250087)
 6. Jobanva Olivia Kezia Putri -
