@@ -14,13 +14,13 @@ Pemrograman Komputer
 
 ### Anggota Kelompok
 
-1. 1. Amanda Sekar Motinda
+1. Amanda Sekar Motinda
 (27250056)
-2. (Gita Anjani) - (27250084)
-3. (Putri Hisanaah Nabilah) -
+3. (Gita Anjani) - (27250084)
+4. (Putri Hisanaah Nabilah) -
 (27250085)
-4. Syahira Alya Putri - (27250087)
-5. Jobanva Olivia Kezia Putri -
+5. Syahira Alya Putri - (27250087)
+6. Jobanva Olivia Kezia Putri -
 (27250056)
 
 ### Deskripsi Project
